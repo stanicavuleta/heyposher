@@ -1,0 +1,15 @@
+default_context:
+  _pegasus_version: 0.13.2
+  author_name: YETENEKLY
+  css_framework: bootstrap
+  database: sqlite
+  deploy_platform: none
+  description: The marketing app for poshmark
+  domain_name: localhost:8000
+  email: yetenekly@localhost:8000
+  enable_google_login: n
+  project_name: Heyposher
+  project_slug: heyposher
+  use_docker: n
+  use_subscriptions: y
+  use_teams: n
